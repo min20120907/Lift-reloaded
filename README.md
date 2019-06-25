@@ -13,3 +13,6 @@ the Reloaded version of Lift plugin in minecraft, recently support newest versio
   [Requirements]
   - Spigot
   - Maven
+
+  [Thanks To]
+  - croxis providing the code of older versions.
